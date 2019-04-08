@@ -12,6 +12,12 @@ From what I've seen from publicly released chat color plugins is that they can o
     1.0
     Initial Release
 
+## Installation
+1. Install simple chat processor - [link](https://forums.alliedmods.net/showpost.php?p=2629088&postcount=413)
+2. Setup the database config
+3. Install the plugin
+4. Have fun with pretty colors
+
 ## Database
     
     "chatcolors"
@@ -25,3 +31,6 @@ From what I've seen from publicly released chat color plugins is that they can o
     	//"port"			"0"
     }
     
+
+Please report any problems to the github issue tracker
+## [Github](https://github.com/R3TROATTACK/custom-chat/tree/master)
