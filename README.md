@@ -15,7 +15,7 @@ From what I've seen from publicly released chat color plugins is that they can o
     Initial Release
 
 ## Installation
-1. Install simple chat processor - [link](https://forums.alliedmods.net/showpost.php?p=2629088&postcount=413)
+1. Install chat-processor - [link](https://forums.alliedmods.net/showthread.php?t=286913)
 2. Setup the database config
 3. Install the plugin
 4. Have fun with pretty colors
