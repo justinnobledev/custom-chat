@@ -9,6 +9,8 @@ From what I've seen from publicly released chat color plugins is that they can o
 
 
 ## Changelog
+	1.1
+	Update to use enum struct over old syntax enums and converted from scp to chat-processor if their is a need for the scp version I can easily make a version that works with both
     1.0
     Initial Release
 
